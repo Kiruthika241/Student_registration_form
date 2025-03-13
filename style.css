@@ -1,0 +1,17 @@
+
+ .dob{
+    display:inline-flex;
+    gap:10px;
+ }
+ .gen{
+    display:inline-flex;
+    gap:10px;
+ }
+ .hob{
+    display: inline-flex;
+    gap:10px;
+ }
+ .cou{
+    display: inline-flex;
+    gap:10px;
+ }
